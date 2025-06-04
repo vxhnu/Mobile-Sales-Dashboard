@@ -1,9 +1,7 @@
 # Mobile-Sales-Dashboard
 This Power BI project delivers an interactive dashboard to analyze mobile sales data. It covers the full data pipeline—from Excel import to modeling and visualizations—enabling users to explore trends, track KPIs, and make informed decisions. Tools used include Power BI, Power Query, and DAX.
 
-Certainly! Here's the revised `README.md` file with **no emojis** and a fully professional tone: 
 
----
 
 # Mobile Sales Report
 
